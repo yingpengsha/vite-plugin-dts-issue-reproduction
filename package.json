@@ -1,0 +1,13 @@
+{
+  "name": "vite-plugin-dts-issue-reproduction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yingpengsha/vite-plugin-dts-issue-reproduction.git",
+  "author": "yingpengsha <yingpengsha@kuaishou.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.4",
+    "vite": "^4.0.1",
+    "vite-plugin-dts": "^1.7.1"
+  }
+}
