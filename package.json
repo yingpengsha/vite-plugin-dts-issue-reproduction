@@ -5,6 +5,9 @@
   "repository": "https://github.com/yingpengsha/vite-plugin-dts-issue-reproduction.git",
   "author": "yingpengsha <yingpengsha@kuaishou.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "vite build"
+  },
   "devDependencies": {
     "typescript": "^4.9.4",
     "vite": "^4.0.1",
